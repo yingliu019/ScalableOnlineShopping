@@ -1,8 +1,6 @@
 # A Scalable Online Shopping System
 
-This repo includes study notes and re-implementation detail from course https://coding.imooc.com/class/chapter/168.html.
-
-The project built a web based online shopping application based on Java(1.8) and Spring Boot(1.5.8.RELEASE). And introducing Redis(3.2) and RabbitMQ(3.7.7) to improve qps from 1306 to 2114 with 5000 Threads and 10 Loop Count.
+The project built a simple web based online shopping application based on Java(1.8) and Spring Boot(1.5.8.RELEASE). And introducing Redis(3.2) and RabbitMQ(3.7.7) to improve qps from 1306 to 2114 (with 5000 Threads and 10 Loop Count).
 
 Feature implemented so far:
 * user register and log in
