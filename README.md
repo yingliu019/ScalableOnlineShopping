@@ -9,7 +9,7 @@ Feature implemented so far:
 * create order
 
 ## How to start on local host 
-The notes below shows how I started my instance on windows machine. Please feel free to choose any tool you like!
+The notes below shows how I started my instance on windows 10 machine. Please feel free to choose any tool you like!
 ### pom.xml
 * git clone this repo
 * Open IntelliJ and import project from existing source (choose the directory of pom.xml)
