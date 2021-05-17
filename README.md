@@ -10,6 +10,8 @@ Feature implemented so far:
 
 ## How to start on local host 
 ### pom.xml
+Import project from existing source and select the directory includes pom.xml
+
 ### MY SQL
 ```
 CREATE TABLE `goods` (
