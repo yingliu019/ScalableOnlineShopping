@@ -1,10 +1,6 @@
 # A Scalable Online Shopping System
 
-This repo includes the project re-implementation detail and study notes from course https://coding.imooc.com/class/chapter/168.html.
-
-Project achieves the functionality of:
-* user register and log in
-* order list, order detail
+This repo includes study notes and re-implementation detail from course https://coding.imooc.com/class/chapter/168.html.
 
 Project achieves the functionality of:
 * user register and log in
@@ -16,4 +12,4 @@ Project achieves the functionality of:
 
 ## TODO
 * Nginx for reverse proxy
-* JMeter for stress testing, compare the qps before and after the introduce of Redis and RabbitMQ.
+* JMeter for stress testing, compare the qps before and after introducing Redis and RabbitMQ.
