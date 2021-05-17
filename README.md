@@ -55,7 +55,7 @@ To save some debugging time, we can test Redis and RabbitMQ connection on window
 
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/testconnection.JPG)
 
-### Test
+### Run Application
 Go to src\main\java\com\imooc\miaosha\MainApplication.java and run as java application.
 
 ## A Simple Project Demo 
