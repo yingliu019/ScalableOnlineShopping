@@ -14,13 +14,15 @@ The notes below shows how I started my instance on windows 10 machine. Please fe
 * git clone this repo
 * Open IntelliJ and import project from existing source (choose the directory of pom.xml)
 
-![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/mysqlworkbench.JPG)
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/intellij.JPG)
 
 ### MY SQL
 * Use MySQL Workbench and create miaosha schema
 * Run the SQL query in tablesDDL.sql
 After running DDL, you can see:
+
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/mysqlworkbench.JPG)
+
 Changed your connection setting in src\main\resources, here are mine:
 ```
 spring.datasource.url=jdbc:mysql://127.0.0.1:3306/miaosha?useUnicode=true&characterEncoding=utf-8&allowMultiQueries=true&useSSL=false
@@ -41,8 +43,10 @@ spring.rabbitmq.port=5672
 spring.rabbitmq.username=guest
 spring.rabbitmq.password=guest
 ```
-To save some time, we can test Redis and RabbitMQ connection on windows power shell
-![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/mysqlworkbench.JPG)
+To save some debugging time, we can test Redis and RabbitMQ connection on windows power shell
+
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/testconnection.JPG)
+
 ## A Simple Project Demo 
 
 
