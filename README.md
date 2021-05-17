@@ -59,7 +59,24 @@ To save some debugging time, we can test Redis and RabbitMQ connection on window
 Go to src\main\java\com\imooc\miaosha\MainApplication.java and run as java application.
 
 ## A Simple Project Demo 
+* user register and log in
 
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/login.JPG)
+
+
+* view goods list
+
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/goodslist.JPG)
+
+
+* view goods detail
+
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/orderdetail.JPG)
+
+
+* create order
+
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/orderdetail.JPG)
 
 ## TODO
 * Nginx for reverse proxy
