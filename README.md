@@ -16,6 +16,8 @@ The notes below shows how I started my instance on windows 10 machine. Please fe
 ### MY SQL
 * Use MySQL Workbench and create miaosha schema
 * Run the SQL query in tablesDDL.sql
+
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/mysqlworkbench.JPG)
 ### Redis
 ### RabbitMQ
 
