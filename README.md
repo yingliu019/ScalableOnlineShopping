@@ -6,8 +6,8 @@ The project built a simple web based online shopping application based on Java(1
 
 Feature implemented so far:
 * user register and log in
-* view goods list
-* view goods detail
+* view item list
+* view item detail
 * create order
 
 ## How to start on local host 
@@ -65,12 +65,12 @@ Go to src\main\java\com\imooc\miaosha\MainApplication.java and run as java appli
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/login.JPG)
 
 
-* view goods list
+* view item list
 
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/goodslist.JPG)
 
 
-* view goods detail
+* view item detail
 
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/goodsdetail.JPG)
 
