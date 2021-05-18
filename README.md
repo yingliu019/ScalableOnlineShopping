@@ -37,7 +37,7 @@ redis.host=127.0.0.1
 redis.port=6379
 ```
 ### RabbitMQ
-Installed Erlang(20.3) and RabbitMQ(3.7.7). Changed your connection setting in src\main\resources\application.properties, here are mine:
+Install Erlang(20.3) and RabbitMQ(3.7.7). Changed your connection setting in src\main\resources\application.properties, here are mine:
 ```
 #rabbitmq
 spring.rabbitmq.host=127.0.0.1
