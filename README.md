@@ -51,8 +51,8 @@ Add miaosha.queue and miaoshatest manually:
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/rabbitmq.JPG)
 
 ### Notes about Redis and RabbitMQ
-Installation of these two could be error-prone. I'll add details later, for now please refer official documentation.
-To save some debugging time, we can test Redis and RabbitMQ connection on windows PowerShell
+Installation of these two could be error-prone. Please refer official documentation.
+After starting the services, we can test Redis and RabbitMQ connection on windows PowerShell:
 
 ![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/testconnection.JPG)
 
