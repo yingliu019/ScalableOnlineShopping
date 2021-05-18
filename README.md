@@ -72,7 +72,7 @@ Go to src\main\java\com\imooc\miaosha\MainApplication.java and run as java appli
 
 * view goods detail
 
-![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/orderdetail.JPG)
+![alt text](https://github.com/yingliu019/ScalableOnlineShopping/blob/master/src/main/resources/static/img/goodsdetail.JPG)
 
 
 * create order
